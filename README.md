@@ -31,7 +31,8 @@ O gün senin gökyüzün
   * **Vonage:** [TIKLA](https://help.nexmo.com/hc/en-us)
   
   * **sms sitemini burdan almıştım incelemek isteyen olursa:** [Mercy Sms](https://github.com/mercyxrd/sms-sistemi)
-
+ 
+  * **Alt yapı olarak Acar'ın v13 Boş alt yapısını kullandım** [Acar V13](https://github.com/acarfx/acar-v13)
   # Örnek
   <p align="center"><img align="center" src="https://cdn.discordapp.com/attachments/868834891779964929/879691660462809139/unknown.png" alt="Approval" /></p>
 
