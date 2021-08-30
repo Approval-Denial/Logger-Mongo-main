@@ -1,2 +1,0 @@
-# Logger-mongo-main
- Logger
