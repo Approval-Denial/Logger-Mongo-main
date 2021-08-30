@@ -1,6 +1,6 @@
 {
     "Bot":{
-        "Token":"ODYwMjM0MDUwMzk5NTAyMzQ2.YN4RYw.-C2Lt770UTg1jiIHN2BCcudfRv0",
+        "Token":"",
         "MongoURL":"mongodb://localhost:27017/Loggerlogv4",
         "Own":["852800814808694814"],
         "Prefix":["."],
