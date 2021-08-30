@@ -1,0 +1,15 @@
+{
+    "Bot":{
+        "Token":"ODYwMjM0MDUwMzk5NTAyMzQ2.YN4RYw.-C2Lt770UTg1jiIHN2BCcudfRv0",
+        "MongoURL":"mongodb://localhost:27017/Loggerlogv4",
+        "Own":["852800814808694814"],
+        "Prefix":["."],
+        "o-c":[],
+        "SmsSystem":false
+    },
+    "Vonage":{
+        "apiKey":"",
+        "apiSecret":"",
+        "youPhoneNumber":""
+    }
+}
