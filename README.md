@@ -35,4 +35,6 @@ O gün senin gökyüzün
   * **Alt yapı olarak Acar'ın v13 Boş alt yapısını kullandım** [Acar V13](https://github.com/acarfx/acar-v13)
   # Örnek
   <p align="center"><img align="center" src="https://cdn.discordapp.com/attachments/868834891779964929/879691660462809139/unknown.png" alt="Approval" /></p>
+    <p align="center"><img align="center" src="https://cdn.discordapp.com/attachments/868804473550675979/880098081994047508/unknown.png" alt="Approval" /></p>
+
 
