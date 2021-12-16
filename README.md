@@ -7,10 +7,6 @@ Hatalar kötü bişey değildir. ders alınması gereken bişeydir.
 ## hata olursa bana ulaşın.
 * **Burdan ulaşabilirsin:** [TIKLA](https://discord.gg/cEJCeaBEDS)
 * ## Serendia Squad
- ```
- Her zaman her hatada yardım aldığım Serendia Squad Sunucusuna Teşekkürler
-```
-**Serendia Squad:** [</>](https://discord.gg/mB5nSCTGhm)
 <p>
 <img src="https://komarev.com/ghpvc/?username=Logger-Mongo-main&label=Ziyaretçi%20Sayısı&color=da004e" alt="Approval-Denial/Logger-Mongo-main" /> <p>
   V13 olan Logger botumu sizle paylaşmak güzel bişi aslında öyle pek alt yapılarımı paylaşmayı sevmem sonuçta benim emeğim ama paylaşma kararı aldım paylaşmak güzeldir
